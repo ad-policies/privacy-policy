@@ -1,13 +1,3 @@
-theme: minima
-title: "Another Dimension"
-# カスタムCSSの読み込み
-sass:
-  style: compressed
-markdown: kramdown
-plugins:
-  - jekyll-sass-converter
-  - jekyll-assets
+# theme: minima
+# title: "Another Dimension"
 
-# カスタムスタイルの指定
-assets:
-  css: "assets/css/style.css"
