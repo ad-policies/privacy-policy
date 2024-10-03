@@ -1,5 +1,3 @@
-# AnotherDimension サポート
-
 ## よくある質問
 
 ### Q1 スキルの登録方法は？
@@ -16,6 +14,6 @@
 
 ## 問い合わせ先
 
-keyper@es-planning.jp
+[keyper@es-planning.jp](keyper@es-planning.jp)
 
 ご質問や問題がある場合は、こちらのメールアドレスまでご連絡ください。
