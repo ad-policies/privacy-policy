@@ -1,3 +1,4 @@
-# theme: minima
-# title: "Another Dimension"
-markdown: kramdown
+theme: minima
+title: "Another Dimension"
+sass:
+  style: compressed
