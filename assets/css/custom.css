@@ -16,6 +16,10 @@
   display: none;
 }
 
+.footer-col-3 {
+  display: none;
+}
+
 .p-name {
   display: none;
 }
@@ -32,6 +36,4 @@ h2 {
   padding-bottom: 8px; /* 文字と線の間のスペース */
 }
 
-.footer-col-3 p {
-  display: none;
-}
+
