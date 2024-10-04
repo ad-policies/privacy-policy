@@ -16,6 +16,10 @@
   display: none;
 }
 
+.trigger a {
+  color: #2b2b2b
+}
+
 .footer-col-3 p {
   display: none !important;
 }
