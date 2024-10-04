@@ -1,0 +1,33 @@
+.site-header {
+  background-color: #2b2b2b !important;
+  color: #ffffff !important;
+}
+
+.site-title,
+.page-link {
+  color: #ffffff !important; /* ここで好きな色のコードを指定 */
+}
+
+.site-footer {
+  background-color: #2b2b2b !important;
+}
+
+.footer-heading {
+  display: none;
+}
+
+.p-name {
+  display: none;
+}
+
+.u-email {
+  pointer-events: none; /* クリックできないようにする */
+  cursor: default; /* 通常のカーソルにする */
+  text-decoration: none; /* 下線を消す */
+  color: whitesmoke; /* 親要素と同じ色にする */
+}
+
+h2 {
+  border-bottom: 2px solid #000000; /* 線の色と太さを指定 */
+  padding-bottom: 8px; /* 文字と線の間のスペース */
+}

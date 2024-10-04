@@ -1,8 +1,9 @@
-<!-- # プライバシーポリシー -->
+---
+layout: page
+title: プライバシーポリシー
+---
 
-# プライバシーポリシー
-
-<br>
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 ## １　プライバシー情報を取得するアプリ提供者
 
@@ -85,7 +86,7 @@
 
 <keyper@es-planning.jp>
 
-[FAQ・問い合わせ](support.md)
+[FAQ・問い合わせ](/support)
 
 <br>
 
