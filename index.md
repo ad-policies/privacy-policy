@@ -86,8 +86,6 @@ title: プライバシーポリシー
 
 <keyper@es-planning.jp>
 
-[FAQ・問い合わせ](/support)
-
 <br>
 
 ## ７　改定
